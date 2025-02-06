@@ -1,0 +1,3 @@
+Say :- Initialize Friday   to start Assistant
+
+now you can ask anything.... Good Luck...
